@@ -2,7 +2,7 @@
 import { personalInfo } from "@/lib/data";
 
 const LINKS = [
-  { icon: "✉", label: "Email", value: "mobeenkhan456@gmail.com", href: `mailto:${personalInfo.email}` },
+  { icon: "✉", label: "Email", value: "developermobeen7@gmail.com", href: `mailto:${personalInfo.email}` },
   { icon: "⌥", label: "GitHub", value: "Mobeenkhxn01", href: personalInfo.github },
   { icon: "◈", label: "LinkedIn", value: "Mobeenkhan456", href: personalInfo.linkedin },
 ];

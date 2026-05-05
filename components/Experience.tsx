@@ -89,8 +89,8 @@ export default function Experience() {
               </p>
               {[
                 "System Design & scalable architectures",
-                "200+ DSA problems — interview prep",
-                "Product-based company interviews (10–20 LPA)",
+                "350+ DSA problems — interview prep",
+                "Product-based company interviews ",
                 "Building real-world SaaS side projects",
               ].map(item => (
                 <div key={item} style={{ display: "flex", gap: "0.6rem", marginBottom: "0.5rem" }}>
