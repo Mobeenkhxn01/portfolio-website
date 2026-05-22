@@ -36,6 +36,19 @@ export const projects = [
     category: "Full Stack",
   },
   {
+    id: "forgefit-gym",
+    title: "ForgeFit Gym",
+    tagline: "Premium Gym & Fitness Club Website",
+    description:
+      "Production-grade gym website with consultation booking, filterable class schedule, three-tier pricing, BMI calculator, and a lead management API. Features Zod-validated form submission, admin-protected endpoints, focus-trapped mobile menu, and a fully componentised architecture. Deployed on Vercel with NeonDB.",
+    tech: ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "Zod"],
+    github: "https://github.com/Mobeenkhxn01/gym-website",
+    live: "https://forgefitx.vercel.app/",
+    featured: true,
+    stars: 0,
+    category: "Full Stack",
+  },
+  {
     id: "chat-app",
     title: "Real-Time Chat App",
     tagline: "WebSocket-Powered Messaging",
